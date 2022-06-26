@@ -34,3 +34,5 @@ def ir_a_index():
 
 if __name__ == '__main__': #este es el punto de entrada. Va a correr App: va a ejecutar la aplicacion de Flask.
     app.run(debug=True)
+
+    
